@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<!--
+=   ${1:Title}
+==============================================-->
+]]></content>
+  <tabTrigger>com-html-subsection</tabTrigger>
+  <description>Comments - HTML subsection</description>
+  <!-- <scope>*.html</scope> -->
+</snippet>

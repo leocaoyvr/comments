@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+/* ${1:Title}
+/* ------------------------------------------- */
+
+]]></content>
+  <tabTrigger>com-subsection</tabTrigger>
+  <description>Comments - Subsection</description>
+</snippet>

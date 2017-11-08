@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+/*
+/* ${1:Block comment}
+/* */
+]]></content>
+  <tabTrigger>com-block</tabTrigger>
+  <description>Comments - Block</description>
+</snippet>
