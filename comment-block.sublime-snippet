@@ -6,4 +6,5 @@
 ]]></content>
   <tabTrigger>com-block</tabTrigger>
   <description>Comments - Block</description>
+  <scope>source.css, source.sass, source.js</scope>
 </snippet>
