@@ -9,37 +9,37 @@
 **CSS - Section Comment**: `com-section` + `tab`
 
 ```css
-/*
-/* Title
-/* Description
-/* =========================================== */
+//
+// Title
+// Description
+// ==============================================
 
 ```
 
 **CSS - Subsection Comment**: `com-subsection` + `tab`
 
 ```css
-/* Title
-/* ------------------------------------------- */
+// Title
+// ----------------------------------------------
 
 ```
 
 **CSS - Todo List**: `com-todo` + `tab`
 
 ```css
-/*
-/* TODO
-/* - [ ] Todo item
-/* - [ ] Todo item
-/* */
+//
+// TODO
+// - [ ] Todo item
+// - [ ] Todo item
+/////
 ```
 
 **CSS - Block Comment**: `com-block` + `tab`
 
 ```css
-/*
-/* Block comment
-/* */
+//
+// Block comment
+/////
 ```
 
 **HTML - Section Comment**: `com-html-section` + `tab`
