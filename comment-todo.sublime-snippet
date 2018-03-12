@@ -8,5 +8,5 @@
 ]]></content>
   <tabTrigger>com-todo</tabTrigger>
   <description>Comments - Todo list</description>
-  <scope>source.css, source.sass, source.js</scope>
+  <scope>source.css, source.sass, source.scss, source.js</scope>
 </snippet>
